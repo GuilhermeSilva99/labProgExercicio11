@@ -1,0 +1,4 @@
+Esse projeto é da disciplina de Laboratorio de Programação
+e tem como intuito ser um jogo para a World Surf League - WSL, um simulador de campeonatos.
+Nele é utilizado orientação a objetos e modularizado para ficilitar a melhora do mesmo,
+também é utilizado nele arquivos para salvar as informações, mas, pode ser atualizado para usar banco de dados.
